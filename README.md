@@ -1,6 +1,5 @@
-# -Vesm1-Loka-Verkefni
-
-
+# Vesm1 lokaverkefni
+- höfundar: Andri, Eryk, Gunnar
 - [Myndband af verkefninu](https://youtube.com/shorts/OYKX4uOk82g?feature=share´)
 
 ```C++
